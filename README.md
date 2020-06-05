@@ -1,4 +1,4 @@
-# ECE2006_Digital_Signal_Processing
+# ECE3002 VLSI System Design
 
 ## Prerequisites 
 

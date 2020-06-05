@@ -19,5 +19,5 @@ P.S. : Pay attention in the lab classes, this sort of treachery wont work for th
 
 
 ## Contributing
-Pull requests and any corrections to the codes are welcome. For major changes, please open an issue first to discuss what you would like to change.
-If there are any other tasks that I may have misssed, fork the changes here, I will review them and commit.
+Pull requests and any corrections to the codes are welcome. I would certainly love to include any and all new lab tasks that I may have missed.
+

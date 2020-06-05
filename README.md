@@ -13,9 +13,9 @@ Not only is Cadence Virtuoso a confusing software, it is also very difficult to 
 So, the only remaining option which exists, is to painstakingly take out your free time and sit around and perform the tasks in the lab itself.
 (If the PhD. guys aren't hogging the systems that is..)
 
-So, here are 4 PDFs, which contain most of the lab tasks you will need.
+So, here are 4 PDFs, which contain most of the lab tasks you will need. (Download them all)
 
-PS : Pay attention in the lab classes, this sort of treachery wont work for the lab exams. This is just to save you time in your 3rd year so you can prepare for your placments and competitive exams.
+P.S. : Pay attention in the lab classes, this sort of treachery wont work for the lab exams. This is just to save you time in your 3rd year so you can prepare for your placments and competitive exams.
 
 
 ## Contributing
